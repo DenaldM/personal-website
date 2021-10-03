@@ -566,7 +566,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     width:100%;
     height: 100%;
     background: #d92cf9;
-    background: -moz-linear-gradient(left, #d92cf9 0%, ##007fff 100%);
+    background: -moz-linear-gradient(left, #d92cf9 0%, #007fff 100%);
     background: -webkit-linear-gradient(left, #d92cf9 0%,#007fff 100%);
     background: linear-gradient(to right, #d92cf9 0%,#007fff 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d92cf9', endColorstr='#007fff',GradientType=1 );
@@ -782,7 +782,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 
 /*hm-foot-icon*/
 .hm-foot-icon {
-   
+
 }
 .hm-foot-icon ul li{float:left;}
 .hm-foot-icon ul li>a {
